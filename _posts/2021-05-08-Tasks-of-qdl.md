@@ -20,6 +20,7 @@ tags: [favicon]
 | 医院看手        | sample |   ✗    |
 | 跑后湖          | sample |   ✓    |
 | 完善githubPages | medium |   ✗    |
+| 出去玩给拍张更好看的 | medium |   ✗    |
 
 > Note: ✓ means finished, ✗ means waiting.....
 
