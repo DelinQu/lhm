@@ -4,7 +4,7 @@ title: 屈德林的小任务
 author: LinXiaoDe
 date: 2021-05-08 00:34:00 +0800
 categories: [LinXiaoDe,Task]
-tags: [favicon]
+tags: [Tasks]
 ---
 
 >  **我从不轻易许诺，一旦许下就一定做到！答应 [lhm](https://github.com/linzissu) 的事一定要做到，比如说那天晚上说要写一个啥古诗.....emm，看好了，我一定会写的！！**
