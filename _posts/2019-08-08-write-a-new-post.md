@@ -228,31 +228,22 @@ git pull origin master
 ```
 
 - **there is LinShiFu's** 
-	- try to modifiy a file.
-	- open git-bash.
-	- insert order. plastic English! wowwwww!!!!
+  1. try to modifiy a file.
+  2. open git-bash.
+  3. insert order. plastic English! wowwwww!!!!
 - **git normal operation**
 
 ```bash
-# add a new file
+# add a new file.
 git add <filename>
 
-# commit it 
+# commit it.
 git commit <filename> -m "some comments"
 
-# push it to remote gh-pages braches
-git push -uf origin gh-pages
+# push it to remote gh-pages braches forcely.
+git push -uf origin master:gh-pages
 
-# make a copy to master
-git checkout master
-
-# merge
-git merge gh-pages
-
-# push to master
+# make a copy to master.
 git push origin master
-
-# check back
-git checkout gh-pages
 ```
 
