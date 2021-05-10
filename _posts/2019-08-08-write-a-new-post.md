@@ -244,6 +244,6 @@ git commit <filename> -m "some comments"
 git push -uf origin master:gh-pages
 
 # make a copy to master.
-git push origin master
+git push -u origin master
 ```
 
