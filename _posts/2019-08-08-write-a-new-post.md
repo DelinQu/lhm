@@ -218,3 +218,35 @@ If you want to display the **Liquid** snippet, surround the liquid code with `{%
 
 For more knowledge about Jekyll posts, visit the [Jekyll Docs: Posts](https://jekyllrb.com/docs/posts/).
 
+## How to add a new file to Github?
+
+1、try to modifiy a file.
+
+2、open git-bash.
+
+3、insert order. plastic English! wowwwww!!!!
+
+```bash
+# add a new file
+git add <filename>
+
+# commit it 
+git commit <filename> -m "some comments"
+
+# push it to remote gh-pages braches
+git push -uf origin gh-pages
+
+# make a copy to master
+git checkout master
+
+# merge
+git merge gh-pages
+
+# push to master
+git push origin master
+
+# check bask
+git checkout gh-pages
+
+```
+
