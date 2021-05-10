@@ -220,11 +220,18 @@ For more knowledge about Jekyll posts, visit the [Jekyll Docs: Posts](https://je
 
 ## How to add a new file to Github?
 
-1、try to modifiy a file.
+- **merge remote to local**
 
-2、open git-bash.
+```bash
+# may need to delete something because the difference
+git pull origin master
+```
 
-3、insert order. plastic English! wowwwww!!!!
+- **there is LinShiFu's** 
+	- try to modifiy a file.
+	- open git-bash.
+	- insert order. plastic English! wowwwww!!!!
+- **git normal operation**
 
 ```bash
 # add a new file
@@ -245,8 +252,7 @@ git merge gh-pages
 # push to master
 git push origin master
 
-# check bask
+# check back
 git checkout gh-pages
-
 ```
 
