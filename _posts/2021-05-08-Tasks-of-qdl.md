@@ -19,8 +19,9 @@ tags: [Tasks]
 | 跑橘子洲        | medium |   ✗    |
 | 医院看手        | sample |   ✗    |
 | 跑后湖          | sample |   ✓    |
-| 完善githubPages | medium |   ✗    |
+| 完善githubPages | medium |   ✓   |
 | 出去玩给拍张更好看的 | medium |   ✗    |
+| 每周做到后湖一起跑步2圈 | sample | .... |
 
 > Note: ✓ means finished, ✗ means waiting.....
 
