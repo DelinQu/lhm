@@ -1,10 +1,8 @@
 ---
-
 title: 屈德林的小任务
 author: LinXiaoDe
 date: 2021-05-08 00:34:00 +0800
-categories: [Li
-nXiaoDe,Task]
+categories: [LinXiaoDe,Task]
 tags: [Tasks]
 ---
 
