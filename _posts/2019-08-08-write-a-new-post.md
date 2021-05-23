@@ -7,6 +7,12 @@ tags: [writing]
 pin: true
 ---
 
+
+
+
+
+
+
 ## Naming and Path
 
 Create a new file named `YYYY-MM-DD-TITLE.EXTENSION` and put it in the `_posts/` of the root directory. Please note that the `EXTENSION` must be one of `md` and `markdown`.

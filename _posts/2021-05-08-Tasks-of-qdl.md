@@ -3,7 +3,8 @@
 title: 屈德林的小任务
 author: LinXiaoDe
 date: 2021-05-08 00:34:00 +0800
-categories: [LinXiaoDe,Task]
+categories: [Li
+nXiaoDe,Task]
 tags: [Tasks]
 ---
 
@@ -20,8 +21,9 @@ tags: [Tasks]
 | 医院看手        | sample |   ✗    |
 | 跑后湖          | sample |   ✓    |
 | 完善githubPages | medium |   ✓   |
-| 出去玩给拍张更好看的 | medium |   ✗    |
-| 每周做到后湖一起跑步2圈 | sample | .... |
+| 出去玩给拍张更好看的 | medium |   ✓   |
+| 每周做到后湖一起跑步2圈 | sample | ✓ |
+| 爬岳麓山 | medium | ✓ |
 
 > Note: ✓ means finished, ✗ means waiting.....
 
